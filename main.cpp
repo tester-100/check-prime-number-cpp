@@ -1,4 +1,6 @@
-/**/
+/*
+A C++ program to check wheter an user entered number is a prime number or composite number.
+*/
 
 #include <iostream>
 
